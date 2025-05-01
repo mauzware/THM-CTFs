@@ -2,7 +2,7 @@
 
 <i>**This repository contains my personal write-ups and guides for TryHackMe CTF's I've completed.**</i>  
 <i>**Each file is named after the corresponding CTF room and includes step-by-step notes, commands used, and flags captured during the process.**</i>
-<i>**Keep in mind there is no screenshots of actions that I did since these are my personal notes that I wrote during challenges, I'll try to provide as much written info as I can.**</i>
+<i>**Keep in mind there is no screenshots of actions that I did since these are my personal notes and steps that I did during these challenges, I'll try to provide as much written info as I can.**</i>
 
 ## 📄 Writeups
 
