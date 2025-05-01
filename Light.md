@@ -2,7 +2,7 @@
 
 [Room Link](https://tryhackme.com/room/lightroom)
 
-Welcome!
+<i>Welcome!</i>
 
 <i>I am working on a database application called Light! Would you like to try it out?</i>
 <i>If so, the application is running on port 1337. You can connect to it using nc MACHINE_IP 1337</i>
