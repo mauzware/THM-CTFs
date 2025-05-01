@@ -7,7 +7,7 @@ Each file is named after the corresponding CTF room and includes step-by-step no
 
 - [c4ptur3-th3-flag writeup](https://github.com/mauzware/THM-CTFs/blob/main/c4ptur3-th3-fl4g.md)
 - [Crack the hash writeup](https://github.com/mauzware/THM-CTFs/blob/main/Crack%20the%20hash.md)
-- will add more
+- [Light](https://github.com/mauzware/THM-CTFs/tree/main)
 - will add more
 - 
 
