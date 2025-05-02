@@ -26,7 +26,7 @@ mauzware aka mauzinho <br>
 
 - Start with Nmap scan
   ```
-  nmap -sC -sV -T5 -p- 10.10.172.195 -> 2 open ports, ssh and ftp
+  nmap -sC -sV -T5 -p- 10.10.172.195 
   
   22/tcp open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.8 (Ubuntu Linux; protocol 2.0)
   21/tcp open  ftp     vsftpd 3.0.3
@@ -102,11 +102,11 @@ mauzware aka mauzinho <br>
   ```
   gpg2john private.asc > keyhash.txt
   
-  john --wordlist=/home/mauzware/Desktop/rockyou.txt keyhash.txt
+  john --wordlist=/rockyou.txt keyhash.txt
   xbox360          (anonforce) 
   
   gpg --import private.asc     
-  gpg: /home/mauzware/.gnupg/trustdb.gpg: trustdb created
+  gpg: /.gnupg/trustdb.gpg: trustdb created
   gpg: key B92CD1F280AD82C2: public key "anonforce <melodias@anonforce.nsa>" imported
   gpg: key B92CD1F280AD82C2: secret key imported
   gpg: key B92CD1F280AD82C2: "anonforce <melodias@anonforce.nsa>" not changed
