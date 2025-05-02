@@ -14,6 +14,13 @@
 - [Ignite writeup](https://github.com/mauzware/THM-CTFs/blob/main/Ignite.md)
 - [Anonforce writeup](https://github.com/mauzware/THM-CTFs/blob/main/Anonforce.md)
 - [Thompson writeup](https://github.com/mauzware/THM-CTFs/blob/main/Thompson.md)
+- [Basic Pentesting writeup](https://github.com/mauzware/THM-CTFs/blob/main/Basic%20Pentesting.md)
+- add
+- add
+- add
+- add
+- add
+- add
 - add
 - 
 
