@@ -13,7 +13,7 @@
 - [Billing writeup](https://github.com/mauzware/THM-CTFs/blob/main/Billing.md)
 - [Ignite writeup](https://github.com/mauzware/THM-CTFs/blob/main/Ignite.md)
 - [Anonforce writeup](https://github.com/mauzware/THM-CTFs/blob/main/Anonforce.md)
-- add
+- [Thompson writeup](https://github.com/mauzware/THM-CTFs/blob/main/Thompson.md)
 - add
 - 
 
