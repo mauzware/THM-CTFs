@@ -8,7 +8,7 @@
 
 - [c4ptur3-th3-flag writeup](https://github.com/mauzware/THM-CTFs/blob/main/c4ptur3-th3-fl4g.md)
 - [Crack the hash writeup](https://github.com/mauzware/THM-CTFs/blob/main/Crack%20the%20hash.md)
-- [Light writeup](https://github.com/mauzware/THM-CTFs/tree/main)
+- [Light writeup](https://github.com/mauzware/THM-CTFs/blob/main/Light.md)
 - [OhSINT writeup](https://github.com/mauzware/THM-CTFs/blob/main/OhSINT.md)
 - [Billing writeup](https://github.com/mauzware/THM-CTFs/blob/main/Billing.md)
 - [Ignite writeup](https://github.com/mauzware/THM-CTFs/blob/main/Ignite.md)
