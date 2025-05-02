@@ -10,8 +10,8 @@
 - [Crack the hash writeup](https://github.com/mauzware/THM-CTFs/blob/main/Crack%20the%20hash.md)
 - [Light writeup](https://github.com/mauzware/THM-CTFs/tree/main)
 - [OhSINT writeup](https://github.com/mauzware/THM-CTFs/blob/main/OhSINT.md)
-- add
-- add
+- [Billing writeup](https://github.com/mauzware/THM-CTFs/blob/main/Billing.md)
+- [Ignite writeup](https://github.com/mauzware/THM-CTFs/blob/main/Ignite.md)
 - add
 - add
 - add
