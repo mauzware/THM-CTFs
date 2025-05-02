@@ -87,7 +87,7 @@ Get inside the archive and inspect the file carefully. Find the hidden text. -> 
 
 - I would recommend this room or any type of CTF challenge to every Cyber Security enthusiast since it will sharpen your skills better than any book/tutorial/course or walkthrough rooms on many different platforms!
 
-- Enjoy, Have Fun and Happy Hacking! 🤟
+- Thank you for reading! Enjoy, Have Fun and Happy Hacking! 🤟
 
 ---
 
