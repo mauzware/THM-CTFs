@@ -29,7 +29,12 @@
 ## ⛔️ License
 
 This repository is licensed under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
-You may read and learn from these write-ups, but you may not copy, modify, or redistribute them.
+You are free to read and share the content with attribution, but reuse, modification, or redistribution is not allowed.
+
+These are personal notes and CTF writeups meant for educational purposes only.<br>
+Please do not copy, republish, or claim this work as your own.
+
+More info: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ---
 
