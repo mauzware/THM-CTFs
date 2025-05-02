@@ -107,9 +107,9 @@ mauzware aka mauzinho <br>
   
   gpg --import private.asc     
   gpg: /.gnupg/trustdb.gpg: trustdb created
-  gpg: key B92CD1F280AD82C2: public key "anonforce <melodias@anonforce.nsa>" imported
-  gpg: key B92CD1F280AD82C2: secret key imported
-  gpg: key B92CD1F280AD82C2: "anonforce <melodias@anonforce.nsa>" not changed
+  gpg: key ABCDE1234FGHI567: public key "anonforce <melodias@anonforce.nsa>" imported
+  gpg: key ABCDE1234FGHI567: secret key imported
+  gpg: key ABCDE1234FGHI567: "anonforce <melodias@anonforce.nsa>" not changed
   gpg: Total number processed: 2
   gpg:               imported: 1
   gpg:              unchanged: 1
