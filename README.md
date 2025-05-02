@@ -24,7 +24,12 @@
 - add
 - 
 
+---
 
+## ⛔️ License
+
+This repository is licensed under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+You may read and learn from these write-ups, but you may not copy, modify, or redistribute them.
 
 ---
 
