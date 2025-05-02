@@ -121,7 +121,7 @@ mauzware aka mauzinho <br>
   ```
   gpg --output decrypted.txt --decrypt backup.pgp 
   gpg: WARNING: cipher algorithm CAST5 not found in recipient preferences
-  gpg: encrypted with 512-bit ELG key, ID AA6268D1E6612967, created 2019-08-12
+  gpg: encrypted with 512-bit ELG key, ID ABCDE1234FGHI567, created 2019-08-12
         "anonforce <melodias@anonforce.nsa>"
 
   cat decrypted.txt
