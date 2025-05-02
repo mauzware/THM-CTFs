@@ -12,7 +12,7 @@
 - [OhSINT writeup](https://github.com/mauzware/THM-CTFs/blob/main/OhSINT.md)
 - [Billing writeup](https://github.com/mauzware/THM-CTFs/blob/main/Billing.md)
 - [Ignite writeup](https://github.com/mauzware/THM-CTFs/blob/main/Ignite.md)
-- add
+- [Anonforce writeup](https://github.com/mauzware/THM-CTFs/blob/main/Anonforce.md)
 - add
 - add
 - 
