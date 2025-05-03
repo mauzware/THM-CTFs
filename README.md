@@ -19,7 +19,7 @@
 - [Bypass Disable Functions writeup](https://github.com/mauzware/THM-CTFs/blob/main/Bypass%20Disable%20Functions.md)
 - [Simple CTF writeup](https://github.com/mauzware/THM-CTFs/blob/main/Simple%20CTF.md)
 - [Library writeup](https://github.com/mauzware/THM-CTFs/blob/main/Library.md)
-- add
+- [Pyrat writeup](https://github.com/mauzware/THM-CTFs/blob/main/Pyrat.md)
 - add
 - add
 - 
