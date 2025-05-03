@@ -16,7 +16,7 @@
 - [Thompson writeup](https://github.com/mauzware/THM-CTFs/blob/main/Thompson.md)
 - [Basic Pentesting writeup](https://github.com/mauzware/THM-CTFs/blob/main/Basic%20Pentesting.md)
 - [Dav writeup](https://github.com/mauzware/THM-CTFs/blob/main/Dav.md)
-- add
+- [Bypass Disable Functions](https://github.com/mauzware/THM-CTFs/blob/main/Bypass%20Disable%20Functions.md)
 - add
 - add
 - add
