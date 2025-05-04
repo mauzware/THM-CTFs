@@ -20,9 +20,14 @@
 - [Simple CTF writeup](https://github.com/mauzware/THM-CTFs/blob/main/Simple%20CTF.md)
 - [Library writeup](https://github.com/mauzware/THM-CTFs/blob/main/Library.md)
 - [Pyrat writeup](https://github.com/mauzware/THM-CTFs/blob/main/Pyrat.md)
+- [Agent Sudo writeup](https://github.com/mauzware/THM-CTFs/blob/main/Agent%20Sudo.md)
 - add
 - add
-- 
+- add
+- add
+- add
+- add
+- add
 
 ---
 
