@@ -24,7 +24,8 @@
 
 **Author**: <br>
 
-mauzware aka mauzinho <br>
+[<img align='center' src="https://github.com/mauzware/mauzware/blob/main/LOGO%20CUT.png"/>](https://github.com/mauzware)
+
 [TryHackMe Profile](https://tryhackme.com/p/mauzinho) <br>
 [GitHub Profile](https://github.com/mauzware)
 
@@ -38,7 +39,7 @@ mauzware aka mauzinho <br>
   ```
 
   ```
-  feroxbuster -u http://10.10.30.6/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt ->
+  feroxbuster -u http://10.10.30.6/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt 
 
   [#>------------------] - 13m    67755/964214  3h      found:33      errors:57845  
   [#>------------------] - 13m     7697/87650   10/s    http://10.10.30.6/ 
