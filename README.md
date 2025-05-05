@@ -22,7 +22,7 @@
 - [Pyrat writeup](https://github.com/mauzware/THM-CTFs/blob/main/Pyrat.md)
 - [Agent Sudo writeup](https://github.com/mauzware/THM-CTFs/blob/main/Agent%20Sudo.md)
 - [Wgel CTF writeup](https://github.com/mauzware/THM-CTFs/blob/main/Wgel%20CTF.md)
-- add
+- [Ninja Skills writeup](https://github.com/mauzware/THM-CTFs/blob/main/Ninja%20Skills.md)
 - add
 - add
 - add
