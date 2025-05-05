@@ -35,17 +35,18 @@ The aim is to answer the questions as efficiently as possible.
 
 **Room Type**: Linux Commands <br>
 
-**Tools Used**: <br>
-
 **Author**: <br>
 
-mauzware aka mauzinho <br>
+[<img align='center' src="https://github.com/mauzware/mauzware/blob/main/LOGO%20CUT.png"/>](https://github.com/mauzware)
+
 [TryHackMe Profile](https://tryhackme.com/p/mauzinho) <br>
 [GitHub Profile](https://github.com/mauzware)
 
 ---
 
-## 🐁 I'm officialy a ninja mouse 
+## 🐁 I'm officialy a ninja mouse! 
+
+<img src="https://github.com/mauzware/Mauzalyzer-assets/blob/main/pixel%20ninja.png"/>
 
 - Let's connect with SSH and start. This is the base syntax for find command: `find <file-name> -exec <command> \;`. With `-exec` you can execute any linux command so have that in mind.
 
@@ -147,7 +148,7 @@ mauzware aka mauzinho <br>
   209 /X1Uy
   ```
 
-- This command will give you answers for the last two questions. Which file's owner has an ID of 502? Answer: `X1Uy` 
+- This command will give you answers for the last two questions. 
 
   ```
   find / -type f \( -name 8V2L -o -name bny0 -o -name c4ZX -o -name D8B3 -o -name FHl1 -o -name oiMO -o -name PFbD -o -name rmfX -o -name SRSq -o -name uqyw -o -name v2Vb -o -name X1Uy \) -exec ls -ln {} \; 2>/dev/null 
