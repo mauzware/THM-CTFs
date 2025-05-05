@@ -21,7 +21,7 @@
 - [Library writeup](https://github.com/mauzware/THM-CTFs/blob/main/Library.md)
 - [Pyrat writeup](https://github.com/mauzware/THM-CTFs/blob/main/Pyrat.md)
 - [Agent Sudo writeup](https://github.com/mauzware/THM-CTFs/blob/main/Agent%20Sudo.md)
-- add
+- [Wgel CTF writeup](https://github.com/mauzware/THM-CTFs/blob/main/Wgel%20CTF.md)
 - add
 - add
 - add
