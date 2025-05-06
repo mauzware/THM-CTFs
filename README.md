@@ -30,7 +30,7 @@
 - [Ninja Skills writeup](https://github.com/mauzware/THM-CTFs/blob/main/Ninja%20Skills.md)
 - [Lazy Admin writeup](https://github.com/mauzware/THM-CTFs/blob/main/Lazy%20Admin.md)
 - [Investigating Windows writeup](https://github.com/mauzware/THM-CTFs/blob/main/Investigating%20Windows.md)
-- add
+- [Jack-of-All-Trades writeup](https://github.com/mauzware/THM-CTFs/blob/main/Jack-of-All-Trades.md)
 - add
 - add
 
