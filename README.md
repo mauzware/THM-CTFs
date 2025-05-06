@@ -29,7 +29,7 @@
 - [Wgel CTF writeup](https://github.com/mauzware/THM-CTFs/blob/main/Wgel%20CTF.md)
 - [Ninja Skills writeup](https://github.com/mauzware/THM-CTFs/blob/main/Ninja%20Skills.md)
 - [Lazy Admin writeup](https://github.com/mauzware/THM-CTFs/blob/main/Lazy%20Admin.md)
-- add
+- [Investigating Windows writeup](https://github.com/mauzware/THM-CTFs/blob/main/Investigating%20Windows.md)
 - add
 - add
 - add
