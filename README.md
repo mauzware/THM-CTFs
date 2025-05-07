@@ -31,6 +31,14 @@
 - [Lazy Admin writeup](https://github.com/mauzware/THM-CTFs/blob/main/Lazy%20Admin.md)
 - [Investigating Windows writeup](https://github.com/mauzware/THM-CTFs/blob/main/Investigating%20Windows.md)
 - [Jack-of-All-Trades writeup](https://github.com/mauzware/THM-CTFs/blob/main/Jack-of-All-Trades.md)
+- [tomghost writeup](https://github.com/mauzware/THM-CTFs/blob/main/tomghost.md)
+- add
+- add
+- add
+- add
+- add
+- add
+- add
 - add
 - add
 
