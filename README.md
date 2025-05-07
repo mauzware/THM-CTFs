@@ -32,7 +32,7 @@
 - [Investigating Windows writeup](https://github.com/mauzware/THM-CTFs/blob/main/Investigating%20Windows.md)
 - [Jack-of-All-Trades writeup](https://github.com/mauzware/THM-CTFs/blob/main/Jack-of-All-Trades.md)
 - [tomghost writeup](https://github.com/mauzware/THM-CTFs/blob/main/tomghost.md)
-- add
+- [CTF collection Vol.1 writeup](https://github.com/mauzware/THM-CTFs/blob/main/CTF%20collection%20Vol.1.md)
 - add
 - add
 - add
