@@ -34,7 +34,7 @@
 - [tomghost writeup](https://github.com/mauzware/THM-CTFs/blob/main/tomghost.md)
 - [CTF collection Vol.1 writeup](https://github.com/mauzware/THM-CTFs/blob/main/CTF%20collection%20Vol.1.md)
 - [Brute It writeup](https://github.com/mauzware/THM-CTFs/blob/main/Brute%20It.md)
-- add
+- [Madness writeup](https://github.com/mauzware/THM-CTFs/blob/main/Madness.md)
 - add
 - add
 - add
