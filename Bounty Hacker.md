@@ -78,7 +78,7 @@
   ===============================================================
   ```
   
-- When I visited web page I found nothing except GOATEST ANIME EVER OFC!!! ❤️
+- When I visited web page I found nothing except GOATED ANIME EVER OFC!!! ❤️
   
 - Since we can login as Anonymous with FTP, let's do that. There's two files in that directory, get them both to your Kali.
 
