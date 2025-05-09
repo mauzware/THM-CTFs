@@ -37,7 +37,7 @@
 - [Madness writeup](https://github.com/mauzware/THM-CTFs/blob/main/Madness.md)
 - [Year of the Rabbit writeup](https://github.com/mauzware/THM-CTFs/blob/main/Year%20of%20the%20Rabbit.md)
 - [Fowsniff CTF writeup](https://github.com/mauzware/THM-CTFs/blob/main/Fowsniff%20CTF.md)
-- add
+- [Pickle Rick writeup](https://github.com/mauzware/THM-CTFs/blob/main/Pickle%20Rick.md)
 - add
 - add
 - add
