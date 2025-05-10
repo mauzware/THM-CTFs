@@ -39,7 +39,7 @@
 - [Fowsniff CTF writeup](https://github.com/mauzware/THM-CTFs/blob/main/Fowsniff%20CTF.md)
 - [Pickle Rick writeup](https://github.com/mauzware/THM-CTFs/blob/main/Pickle%20Rick.md)
 - [Bounty Hacker writeup](https://github.com/mauzware/THM-CTFs/blob/main/Bounty%20Hacker.md)
-- add
+- [Tony the Tiger writeup](https://github.com/mauzware/THM-CTFs/blob/main/Tony%20the%20Tiger.md)
 - add
 
 ---
