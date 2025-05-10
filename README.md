@@ -40,6 +40,12 @@
 - [Pickle Rick writeup](https://github.com/mauzware/THM-CTFs/blob/main/Pickle%20Rick.md)
 - [Bounty Hacker writeup](https://github.com/mauzware/THM-CTFs/blob/main/Bounty%20Hacker.md)
 - [Tony the Tiger writeup](https://github.com/mauzware/THM-CTFs/blob/main/Tony%20the%20Tiger.md)
+- [Break Out The Cage writeup](https://github.com/mauzware/THM-CTFs/blob/main/Break%20Out%20The%20Cage.md)
+- add
+- add
+- add
+- add
+- add
 - add
 
 ---
