@@ -42,7 +42,7 @@
 - [Tony the Tiger writeup](https://github.com/mauzware/THM-CTFs/blob/main/Tony%20the%20Tiger.md)
 - [Break Out The Cage writeup](https://github.com/mauzware/THM-CTFs/blob/main/Break%20Out%20The%20Cage.md)
 - [Reversing ELF writeup](https://github.com/mauzware/THM-CTFs/blob/main/Reversing%20ELF.md)
-- add
+- [Lian_Yu writeup](https://github.com/mauzware/THM-CTFs/blob/main/Lian_Yu.md)
 - add
 - add
 - add
