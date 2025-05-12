@@ -25,7 +25,7 @@ Credit to berzerk0 for creating this machine.</i>
 
 **Author**: <br>
 
-[<img align='center' src="https://github.com/mauzware/mauzware/blob/main/LOGO%20CUT.png"/>](https://github.com/mauzware)
+[<img align='center' src="https://github.com/mauzware/mauzware/blob/main/LOGO%20NEW.png"/>](https://github.com/mauzware)
 
 [TryHackMe Profile](https://tryhackme.com/p/mauzinho) <br>
 [GitHub Profile](https://github.com/mauzware)
