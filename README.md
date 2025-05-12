@@ -46,6 +46,13 @@
 - [Anthem writeup](https://github.com/mauzware/THM-CTFs/blob/main/Anthem.md)
 - [Brooklyn Nine Nine writeup](https://github.com/mauzware/THM-CTFs/blob/main/Brooklyn%20Nine%20Nine.md)
 - [Overpass writeup](https://github.com/mauzware/THM-CTFs/blob/main/Overpass.md)
+- [Easy Peasy](https://github.com/mauzware/THM-CTFs/blob/main/Easy%20Peasy.md)
+- add
+- add
+- add
+- add
+- add
+- add
 - add
 
 ---
