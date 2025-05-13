@@ -48,7 +48,7 @@
 - [Overpass writeup](https://github.com/mauzware/THM-CTFs/blob/main/Overpass.md)
 - [Easy Peasy](https://github.com/mauzware/THM-CTFs/blob/main/Easy%20Peasy.md)
 - [RootMe writeup](https://github.com/mauzware/THM-CTFs/blob/main/RootMe.md)
-- add
+- [Gotta Catch'em All! writeup](https://github.com/mauzware/THM-CTFs/blob/main/Gotta%20Catch'em%20All!.md)
 - add
 - add
 - add
