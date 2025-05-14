@@ -55,7 +55,7 @@
 - [Smag Grotto writeup](https://github.com/mauzware/THM-CTFs/blob/main/Smag%20Grotto.md)
 - [Poster writeup](https://github.com/mauzware/THM-CTFs/blob/main/Poster.md)
 - [Chill Hack writeup](https://github.com/mauzware/THM-CTFs/blob/main/Chill%20Hack.md)
-- add
+- [GamingServer writeup](https://github.com/mauzware/THM-CTFs/blob/main/GamingServer.md)
 - add
 - add
 - add
