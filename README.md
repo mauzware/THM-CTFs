@@ -51,7 +51,7 @@
 - [Gotta Catch'em All! writeup](https://github.com/mauzware/THM-CTFs/blob/main/Gotta%20Catch'em%20All!.md)
 - [Source writeup](https://github.com/mauzware/THM-CTFs/blob/main/Source.md)
 - [kiba writeup](https://github.com/mauzware/THM-CTFs/blob/main/kiba.md)
-- add
+- [Git Happens writeup](https://github.com/mauzware/THM-CTFs/blob/main/Git%20Happens.md)
 - add
 - add
 
