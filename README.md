@@ -50,7 +50,7 @@
 - [RootMe writeup](https://github.com/mauzware/THM-CTFs/blob/main/RootMe.md)
 - [Gotta Catch'em All! writeup](https://github.com/mauzware/THM-CTFs/blob/main/Gotta%20Catch'em%20All!.md)
 - [Source writeup](https://github.com/mauzware/THM-CTFs/blob/main/Source.md)
-- add
+- [kiba writeup](https://github.com/mauzware/THM-CTFs/blob/main/kiba.md)
 - add
 - add
 - add
