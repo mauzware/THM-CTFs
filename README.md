@@ -53,6 +53,14 @@
 - [kiba writeup](https://github.com/mauzware/THM-CTFs/blob/main/kiba.md)
 - [Git Happens writeup](https://github.com/mauzware/THM-CTFs/blob/main/Git%20Happens.md)
 - [Smag Grotto writeup](https://github.com/mauzware/THM-CTFs/blob/main/Smag%20Grotto.md)
+- [Poster writeup](https://github.com/mauzware/THM-CTFs/blob/main/Poster.md)
+- add
+- add
+- add
+- add
+- add
+- add
+- add
 - add
 
 ---
