@@ -57,7 +57,7 @@
 - [Chill Hack writeup](https://github.com/mauzware/THM-CTFs/blob/main/Chill%20Hack.md)
 - [GamingServer writeup](https://github.com/mauzware/THM-CTFs/blob/main/GamingServer.md)
 - [Startup writeup](https://github.com/mauzware/THM-CTFs/blob/main/Startup.md)
-- add
+- [Blueprint writeup](https://github.com/mauzware/THM-CTFs/blob/main/Blueprint.md)
 - add
 - add
 - add
