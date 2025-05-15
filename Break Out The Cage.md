@@ -43,7 +43,7 @@
   | ftp-syst: 
   |   STAT: 
   | FTP server status:
-  |      Connected to ::ffff:10.8.120.52
+  |      Connected to ::ffff:
   |      Logged in as ftp
   |      TYPE: ASCII
   |      No session bandwidth limit
