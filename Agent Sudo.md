@@ -251,7 +251,8 @@ If you are stuck inside the black hole, post on the forum or ask in the TryHackM
 - You know the drill!
 
   ```
-  ssh james@10.10.133.46 hackerrules!
+  ssh james@10.10.133.46
+  hackerrules!
 
   whoami
   james
