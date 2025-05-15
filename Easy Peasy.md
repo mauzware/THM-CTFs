@@ -14,7 +14,7 @@
 
 **Room Type**: Linux Privilege Escalation, Web, Cryptography, Steganography <br>
 
-**Tools Used**: Nmpa, Gobuster, John The Ripper, Steghide<br>
+**Tools Used**: Nmap, Gobuster, John The Ripper, Steghide<br>
 
 **Author**: <br>
 
@@ -89,7 +89,8 @@
   flag{f1rs7_fl4g}
   ```
   
-- Now moving to port 65524. When you visit `http://10.10.119.39:65524/robots.txt`, you will find a second flag in `User-Agent`. This one is MD5 hash, I used MD5hashing tool since nothing worked... Just google this tool and you'll find it.
+- Now moving to port 65524. When you visit `http://10.10.119.39:65524/robots.txt`, you will find a second flag in `User-Agent`. This one is MD5 hash, I used MD5hashing tool since nothing worked...
+  Just google this tool and you'll find it.
 
   ```
   User-Agent:*
