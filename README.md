@@ -58,7 +58,7 @@
 - [GamingServer writeup](https://github.com/mauzware/THM-CTFs/blob/main/GamingServer.md)
 - [Startup writeup](https://github.com/mauzware/THM-CTFs/blob/main/Startup.md)
 - [Blueprint writeup](https://github.com/mauzware/THM-CTFs/blob/main/Blueprint.md)
-- add
+- [Searchlight - IMINT writeup](https://github.com/mauzware/THM-CTFs/blob/main/Searchlight%20-%20IMINT.md)
 - add
 - add
 - add
