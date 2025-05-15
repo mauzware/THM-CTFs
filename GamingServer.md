@@ -16,7 +16,7 @@
 
 **Room Type**: Linux Privilege Escalation, Web, <br>
 
-**Tools Used**: Nmap, Ffuf, Joh The Ripper<br>
+**Tools Used**: Nmap, Ffuf, John The Ripper<br>
 
 **Author**: <br>
 
