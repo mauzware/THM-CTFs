@@ -219,7 +219,7 @@ Credit to berzerk0 for creating this machine.</i>
   AJ had been telling us to do that right before Captain Profanity showed up.
   ```
 
-- `list` command is lists all messages and `retr` reads them. From first one we got a password `S1ck3nBluff+secureshell` and from second one username `baksteen`.
+- `list` command lists all messages and `retr` reads them. From first one we got a password `S1ck3nBluff+secureshell` and from second one username `baksteen`.
 
 ---
 
