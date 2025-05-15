@@ -169,7 +169,7 @@ Can you hack into the Year of the Rabbit box without falling down a hole?
   ftp 10.10.78.65
   Connected to 10.10.78.65.
   220 (vsFTPd 3.0.2)
-  Name (10.10.78.65:mauzware): ftpuser
+  Name (10.10.78.65): ftpuser
   331 Please specify the password.
   Password: 
   230 Login successful.
