@@ -16,8 +16,6 @@
 
 **Tools Used**: Nmap, Gobuster
 
-[Tool Name](tool link)<br>
-
 **Author**: <br>
 
 [<img align='center' src="https://github.com/mauzware/mauzware/blob/main/LOGO%20NEW.png"/>](https://github.com/mauzware)
