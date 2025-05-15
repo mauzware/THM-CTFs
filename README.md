@@ -56,7 +56,7 @@
 - [Poster writeup](https://github.com/mauzware/THM-CTFs/blob/main/Poster.md)
 - [Chill Hack writeup](https://github.com/mauzware/THM-CTFs/blob/main/Chill%20Hack.md)
 - [GamingServer writeup](https://github.com/mauzware/THM-CTFs/blob/main/GamingServer.md)
-- add
+- [Startup writeup](https://github.com/mauzware/THM-CTFs/blob/main/Startup.md)
 - add
 - add
 - add
