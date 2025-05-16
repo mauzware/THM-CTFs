@@ -60,7 +60,7 @@
 - [Blueprint writeup](https://github.com/mauzware/THM-CTFs/blob/main/Blueprint.md)
 - [Searchlight - IMINT writeup](https://github.com/mauzware/THM-CTFs/blob/main/Searchlight%20-%20IMINT.md)
 - [ColddBox: Easy writeup](https://github.com/mauzware/THM-CTFs/blob/main/ColddBox%3A%20Easy.md)
-- add
+- [All in One writeup](https://github.com/mauzware/THM-CTFs/blob/main/All%20in%20One.md)
 - add
 
 ---
