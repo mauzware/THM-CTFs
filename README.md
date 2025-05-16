@@ -62,7 +62,7 @@
 - [ColddBox: Easy writeup](https://github.com/mauzware/THM-CTFs/blob/main/ColddBox%3A%20Easy.md)
 - [All in One writeup](https://github.com/mauzware/THM-CTFs/blob/main/All%20in%20One.md)
 - [Chocolate Factory writeup](https://github.com/mauzware/THM-CTFs/blob/main/Chocolate%20Factory.md)
-- add
+- [Cyborg writeup](https://github.com/mauzware/THM-CTFs/blob/main/Cyborg.md)
 - add
 - add
 - add
