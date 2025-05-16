@@ -64,7 +64,7 @@
 - [Chocolate Factory writeup](https://github.com/mauzware/THM-CTFs/blob/main/Chocolate%20Factory.md)
 - [Cyborg writeup](https://github.com/mauzware/THM-CTFs/blob/main/Cyborg.md)
 - [magician writeup](https://github.com/mauzware/THM-CTFs/blob/main/magician.md)
-- add
+- [Team writeup](https://github.com/mauzware/THM-CTFs/blob/main/Team.md)
 - add
 - add
 - add
