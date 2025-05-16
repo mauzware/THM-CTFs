@@ -63,7 +63,7 @@
 - [All in One writeup](https://github.com/mauzware/THM-CTFs/blob/main/All%20in%20One.md)
 - [Chocolate Factory writeup](https://github.com/mauzware/THM-CTFs/blob/main/Chocolate%20Factory.md)
 - [Cyborg writeup](https://github.com/mauzware/THM-CTFs/blob/main/Cyborg.md)
-- add
+- [magician writeup](https://github.com/mauzware/THM-CTFs/blob/main/magician.md)
 - add
 - add
 - add
