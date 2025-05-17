@@ -65,7 +65,7 @@
 - [Cyborg writeup](https://github.com/mauzware/THM-CTFs/blob/main/Cyborg.md)
 - [magician writeup](https://github.com/mauzware/THM-CTFs/blob/main/magician.md)
 - [Team writeup](https://github.com/mauzware/THM-CTFs/blob/main/Team.md)
-- add
+- [Archangel writeup](https://github.com/mauzware/THM-CTFs/blob/main/Archangel.md)
 - add
 - add
 - add
