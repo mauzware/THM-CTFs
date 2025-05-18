@@ -260,7 +260,7 @@
   https://github.com/optionalCTF
   ```
 
-- That's all folks, love me some Python! 
+- That's all folks, love me some Python! You can find compare script [here](https://github.com/mauzware/Random-Scripts/blob/main/pwn-other/compare.py).
 
 ---
 
