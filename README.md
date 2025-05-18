@@ -67,7 +67,7 @@
 - [Team writeup](https://github.com/mauzware/THM-CTFs/blob/main/Team.md)
 - [Archangel writeup](https://github.com/mauzware/THM-CTFs/blob/main/Archangel.md)
 - [JPGChat writeup](https://github.com/mauzware/THM-CTFs/blob/main/JPGChat.md)
-- add
+- [Sakura Room writeup](https://github.com/mauzware/THM-CTFs/blob/main/Sakura%20Room.md)
 - add
 - add
 - add
