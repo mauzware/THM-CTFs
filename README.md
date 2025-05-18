@@ -66,7 +66,7 @@
 - [magician writeup](https://github.com/mauzware/THM-CTFs/blob/main/magician.md)
 - [Team writeup](https://github.com/mauzware/THM-CTFs/blob/main/Team.md)
 - [Archangel writeup](https://github.com/mauzware/THM-CTFs/blob/main/Archangel.md)
-- add
+- [JPGChat writeup](https://github.com/mauzware/THM-CTFs/blob/main/JPGChat.md)
 - add
 - add
 - add
