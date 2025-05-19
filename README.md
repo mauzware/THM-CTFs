@@ -71,6 +71,13 @@
 - [Mustacchio writeup](https://github.com/mauzware/THM-CTFs/blob/main/Mustacchio.md)
 - [VulnNet: Node writeup](https://github.com/mauzware/THM-CTFs/blob/main/VulnNet%3A%20Node.md)
 - [VulnNet: Internal](https://github.com/mauzware/THM-CTFs/blob/main/VulnNet%3A%20Internal.md)
+- [VulnNet: Roasted](https://github.com/mauzware/THM-CTFs/blob/main/VulnNet%3A%20Roasted.md)
+- add
+- add
+- add
+- add
+- add
+- add
 - add
 
 ---
