@@ -69,7 +69,7 @@
 - [JPGChat writeup](https://github.com/mauzware/THM-CTFs/blob/main/JPGChat.md)
 - [Sakura Room writeup](https://github.com/mauzware/THM-CTFs/blob/main/Sakura%20Room.md)
 - [Mustacchio writeup](https://github.com/mauzware/THM-CTFs/blob/main/Mustacchio.md)
-- add
+- [VulnNet: Node writeup](https://github.com/mauzware/THM-CTFs/blob/main/VulnNet%3A%20Node.md)
 - add
 - add
 
