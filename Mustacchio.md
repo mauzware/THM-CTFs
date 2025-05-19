@@ -408,7 +408,7 @@
   barry@mustacchio:/tmp$ chmod +x /tmp/tail
   ```
 
-- That part is done, for the final we just have to execute that SUID `live_log` and after that execute `/tmp/bash -p` and BOOM! We are root!
+- That part is done, for the final blow we just have to execute that SUID `live_log` and after that execute `/tmp/bash -p` and BOOM! We are root!
 
   ```
   barry@mustacchio:/tmp$ cd /home/joe
