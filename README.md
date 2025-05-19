@@ -70,7 +70,7 @@
 - [Sakura Room writeup](https://github.com/mauzware/THM-CTFs/blob/main/Sakura%20Room.md)
 - [Mustacchio writeup](https://github.com/mauzware/THM-CTFs/blob/main/Mustacchio.md)
 - [VulnNet: Node writeup](https://github.com/mauzware/THM-CTFs/blob/main/VulnNet%3A%20Node.md)
-- add
+- [VulnNet: Internal](https://github.com/mauzware/THM-CTFs/blob/main/VulnNet%3A%20Internal.md)
 - add
 
 ---
