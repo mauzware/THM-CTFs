@@ -70,9 +70,9 @@
 - [Sakura Room writeup](https://github.com/mauzware/THM-CTFs/blob/main/Sakura%20Room.md)
 - [Mustacchio writeup](https://github.com/mauzware/THM-CTFs/blob/main/Mustacchio.md)
 - [VulnNet: Node writeup](https://github.com/mauzware/THM-CTFs/blob/main/VulnNet%3A%20Node.md)
-- [VulnNet: Internal](https://github.com/mauzware/THM-CTFs/blob/main/VulnNet%3A%20Internal.md)
-- [VulnNet: Roasted](https://github.com/mauzware/THM-CTFs/blob/main/VulnNet%3A%20Roasted.md)
-- add
+- [VulnNet: Internal writeup](https://github.com/mauzware/THM-CTFs/blob/main/VulnNet%3A%20Internal.md)
+- [VulnNet: Roasted writeup](https://github.com/mauzware/THM-CTFs/blob/main/VulnNet%3A%20Roasted.md)
+- [h4cked writeup](https://github.com/mauzware/THM-CTFs/blob/main/h4cked.md)
 - add
 - add
 - add
