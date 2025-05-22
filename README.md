@@ -73,7 +73,7 @@
 - [VulnNet: Internal writeup](https://github.com/mauzware/THM-CTFs/blob/main/VulnNet%3A%20Internal.md)
 - [VulnNet: Roasted writeup](https://github.com/mauzware/THM-CTFs/blob/main/VulnNet%3A%20Roasted.md)
 - [h4cked writeup](https://github.com/mauzware/THM-CTFs/blob/main/h4cked.md)
-- add
+- [GLITCH writeup](https://github.com/mauzware/THM-CTFs/blob/main/GLITCH.md)
 - add
 - add
 - add
