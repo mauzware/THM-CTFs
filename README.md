@@ -75,7 +75,7 @@
 - [h4cked writeup](https://github.com/mauzware/THM-CTFs/blob/main/h4cked.md)
 - [GLITCH writeup](https://github.com/mauzware/THM-CTFs/blob/main/GLITCH.md)
 - [Couch writeup](https://github.com/mauzware/THM-CTFs/blob/main/Couch.md)
-- add
+- [Juicy Details](https://github.com/mauzware/THM-CTFs/blob/main/Juicy%20Details.md)
 - add
 - add
 - add
