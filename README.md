@@ -74,7 +74,7 @@
 - [VulnNet: Roasted writeup](https://github.com/mauzware/THM-CTFs/blob/main/VulnNet%3A%20Roasted.md)
 - [h4cked writeup](https://github.com/mauzware/THM-CTFs/blob/main/h4cked.md)
 - [GLITCH writeup](https://github.com/mauzware/THM-CTFs/blob/main/GLITCH.md)
-- add
+- [Couch writeup](https://github.com/mauzware/THM-CTFs/blob/main/Couch.md)
 - add
 - add
 - add
