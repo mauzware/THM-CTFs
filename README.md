@@ -81,7 +81,7 @@
 - [Corridor writeup](https://github.com/mauzware/THM-CTFs/blob/main/Corridor.md)
 - [Agent T writeup](https://github.com/mauzware/THM-CTFs/blob/main/Agent%20T.md)
 - [Dig Dug writeup](https://github.com/mauzware/THM-CTFs/blob/main/Dig%20Dug.md)
-- add
+- [CyberHeroes writeup](https://github.com/mauzware/THM-CTFs/blob/main/Cyber%20Heroes.md)
 - add
 - add
 - add
