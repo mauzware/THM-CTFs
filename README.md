@@ -78,7 +78,7 @@
 - [Juicy Details writeup](https://github.com/mauzware/THM-CTFs/blob/main/Juicy%20Details.md)
 - [Cat Pictures writeup](https://github.com/mauzware/THM-CTFs/blob/main/Cat%20Pictures.md)
 - [Wordpress: CVE-2021-29447 writeup](https://github.com/mauzware/THM-CTFs/blob/main/Wordpress%3A%20CVE-2021-29447.md)
-- add
+- [Corridor writeup](https://github.com/mauzware/THM-CTFs/blob/main/Corridor.md)
 - add
 - add
 - add
