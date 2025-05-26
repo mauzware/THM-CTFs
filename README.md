@@ -79,7 +79,7 @@
 - [Cat Pictures writeup](https://github.com/mauzware/THM-CTFs/blob/main/Cat%20Pictures.md)
 - [Wordpress: CVE-2021-29447 writeup](https://github.com/mauzware/THM-CTFs/blob/main/Wordpress%3A%20CVE-2021-29447.md)
 - [Corridor writeup](https://github.com/mauzware/THM-CTFs/blob/main/Corridor.md)
-- add
+- [Agent T writeup](https://github.com/mauzware/THM-CTFs/blob/main/Agent%20T.md)
 - add
 - add
 - add
