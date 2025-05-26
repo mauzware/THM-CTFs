@@ -83,7 +83,7 @@
 - [Dig Dug writeup](https://github.com/mauzware/THM-CTFs/blob/main/Dig%20Dug.md)
 - [CyberHeroes writeup](https://github.com/mauzware/THM-CTFs/blob/main/Cyber%20Heroes.md)
 - [Lesson Learned? writeup](https://github.com/mauzware/THM-CTFs/blob/main/Lesson%20Learned.md)
-- add
+- [Jax sucks alot......... writeup](https://github.com/mauzware/THM-CTFs/blob/main/Jax%20sucks%20alot.md)
 - add
 
 ---
