@@ -80,7 +80,7 @@
 - [Wordpress: CVE-2021-29447 writeup](https://github.com/mauzware/THM-CTFs/blob/main/Wordpress%3A%20CVE-2021-29447.md)
 - [Corridor writeup](https://github.com/mauzware/THM-CTFs/blob/main/Corridor.md)
 - [Agent T writeup](https://github.com/mauzware/THM-CTFs/blob/main/Agent%20T.md)
-- add
+- [Dig Dug writeup](https://github.com/mauzware/THM-CTFs/blob/main/Dig%20Dug.md)
 - add
 - add
 - add
