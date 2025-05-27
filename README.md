@@ -84,6 +84,13 @@
 - [CyberHeroes writeup](https://github.com/mauzware/THM-CTFs/blob/main/Cyber%20Heroes.md)
 - [Lesson Learned? writeup](https://github.com/mauzware/THM-CTFs/blob/main/Lesson%20Learned.md)
 - [Jax sucks alot......... writeup](https://github.com/mauzware/THM-CTFs/blob/main/Jax%20sucks%20alot.md)
+- [Hacker vs. Hacker writeup](https://github.com/mauzware/THM-CTFs/blob/main/Hacker%20vs%20Hacker.md)
+- add
+- add
+- add
+- add
+- add
+- add
 - add
 
 ---
