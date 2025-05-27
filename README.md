@@ -86,7 +86,7 @@
 - [Jax sucks alot......... writeup](https://github.com/mauzware/THM-CTFs/blob/main/Jax%20sucks%20alot.md)
 - [Hacker vs. Hacker writeup](https://github.com/mauzware/THM-CTFs/blob/main/Hacker%20vs%20Hacker.md)
 - [Bugged writeup](https://github.com/mauzware/THM-CTFs/blob/main/Bugged.md)
-- add
+- [Dear QA writeup](https://github.com/mauzware/THM-CTFs/blob/main/Dear%20QA.md)
 - add
 - add
 - add
