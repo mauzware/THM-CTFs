@@ -87,7 +87,7 @@
 - [Hacker vs. Hacker writeup](https://github.com/mauzware/THM-CTFs/blob/main/Hacker%20vs%20Hacker.md)
 - [Bugged writeup](https://github.com/mauzware/THM-CTFs/blob/main/Bugged.md)
 - [Dear QA writeup](https://github.com/mauzware/THM-CTFs/blob/main/Dear%20QA.md)
-- add
+- [Plotted-TMS writeup](https://github.com/mauzware/THM-CTFs/blob/main/Plotted-TMS.md)
 - add
 - add
 - add
