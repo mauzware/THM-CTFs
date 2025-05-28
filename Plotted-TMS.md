@@ -1,4 +1,4 @@
-## Plotted-TSM - TryHackMe Writeup
+## Plotted-TMS - TryHackMe Writeup
 
 [Room Link](https://tryhackme.com/room/plottedtms)
 
