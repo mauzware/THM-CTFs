@@ -88,7 +88,7 @@
 - [Bugged writeup](https://github.com/mauzware/THM-CTFs/blob/main/Bugged.md)
 - [Dear QA writeup](https://github.com/mauzware/THM-CTFs/blob/main/Dear%20QA.md)
 - [Plotted-TMS writeup](https://github.com/mauzware/THM-CTFs/blob/main/Plotted-TMS.md)
-- add
+- [0x41haz writeup](https://github.com/mauzware/THM-CTFs/blob/main/0x41haz.md)
 - add
 - add
 - add
