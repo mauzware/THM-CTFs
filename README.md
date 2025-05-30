@@ -91,7 +91,7 @@
 - [0x41haz writeup](https://github.com/mauzware/THM-CTFs/blob/main/0x41haz.md)
 - [Gallery writeup](https://github.com/mauzware/THM-CTFs/blob/main/Gallery.md)
 - [Dreaming writeup](https://github.com/mauzware/THM-CTFs/blob/main/Dreaming.md)
-- add
+- [TryHack3M: Bricks Heist writeup](https://github.com/mauzware/THM-CTFs/blob/main/TryHack3M%3A%20Bricks%20Heist.md)
 - add
 - add
 - add
