@@ -90,6 +90,13 @@
 - [Plotted-TMS writeup](https://github.com/mauzware/THM-CTFs/blob/main/Plotted-TMS.md)
 - [0x41haz writeup](https://github.com/mauzware/THM-CTFs/blob/main/0x41haz.md)
 - [Gallery writeup](https://github.com/mauzware/THM-CTFs/blob/main/Gallery.md)
+- [Dreaming writeup](https://github.com/mauzware/THM-CTFs/blob/main/Dreaming.md)
+- add
+- add
+- add
+- add
+- add
+- add
 - add
 - add
 
