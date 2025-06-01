@@ -92,7 +92,7 @@
 - [Gallery writeup](https://github.com/mauzware/THM-CTFs/blob/main/Gallery.md)
 - [Dreaming writeup](https://github.com/mauzware/THM-CTFs/blob/main/Dreaming.md)
 - [TryHack3M: Bricks Heist writeup](https://github.com/mauzware/THM-CTFs/blob/main/TryHack3M%3A%20Bricks%20Heist.md)
-- add
+- [b3dr0ck writeup](https://github.com/mauzware/THM-CTFs/blob/main/b3dr0ck.md)
 - add
 - add
 - add
