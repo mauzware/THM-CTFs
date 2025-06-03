@@ -98,6 +98,13 @@
 - [mKingdom writeup](https://github.com/mauzware/THM-CTFs/blob/main/mKingdom.md)
 - [Tech_Supp0rt: 1 writeup](https://github.com/mauzware/THM-CTFs/blob/main/Tech_Supp0rt%3A%201.md)
 - [Cheese CTF writeup](https://github.com/mauzware/THM-CTFs/blob/main/Cheese%20CTF.md)
+- [U.A. High School writeup](https://github.com/mauzware/THM-CTFs/blob/main/U.A.%20High%20School.md)
+- add
+- add
+- add
+- add
+- add
+- add
 - add
 
 ---
