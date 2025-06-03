@@ -99,7 +99,7 @@
 - [Tech_Supp0rt: 1 writeup](https://github.com/mauzware/THM-CTFs/blob/main/Tech_Supp0rt%3A%201.md)
 - [Cheese CTF writeup](https://github.com/mauzware/THM-CTFs/blob/main/Cheese%20CTF.md)
 - [U.A. High School writeup](https://github.com/mauzware/THM-CTFs/blob/main/U.A.%20High%20School.md)
-- add
+- [Cat Pictures 2 writeup](https://github.com/mauzware/THM-CTFs/blob/main/Cat%20Pictures%202.md)
 - add
 - add
 - add
