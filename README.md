@@ -94,7 +94,7 @@
 - [TryHack3M: Bricks Heist writeup](https://github.com/mauzware/THM-CTFs/blob/main/TryHack3M%3A%20Bricks%20Heist.md)
 - [b3dr0ck writeup](https://github.com/mauzware/THM-CTFs/blob/main/b3dr0ck.md)
 - [Lookup writeup](https://github.com/mauzware/THM-CTFs/blob/main/Lookup.md)
-- add
+- [Capture! writeup](https://github.com/mauzware/THM-CTFs/blob/main/Capture!.md)
 - add
 - add
 - add
