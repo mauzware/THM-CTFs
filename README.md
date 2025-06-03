@@ -96,7 +96,7 @@
 - [Lookup writeup](https://github.com/mauzware/THM-CTFs/blob/main/Lookup.md)
 - [Capture! writeup](https://github.com/mauzware/THM-CTFs/blob/main/Capture!.md)
 - [mKingdom writeup](https://github.com/mauzware/THM-CTFs/blob/main/mKingdom.md)
-- add
+- [Tech_Supp0rt: 1 writeup](https://github.com/mauzware/THM-CTFs/blob/main/Tech_Supp0rt%3A%201.md)
 - add
 - add
 
