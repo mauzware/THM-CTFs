@@ -95,7 +95,7 @@
 - [b3dr0ck writeup](https://github.com/mauzware/THM-CTFs/blob/main/b3dr0ck.md)
 - [Lookup writeup](https://github.com/mauzware/THM-CTFs/blob/main/Lookup.md)
 - [Capture! writeup](https://github.com/mauzware/THM-CTFs/blob/main/Capture!.md)
-- add
+- [mKingdom writeup](https://github.com/mauzware/THM-CTFs/blob/main/mKingdom.md)
 - add
 - add
 - add
