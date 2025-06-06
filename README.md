@@ -102,7 +102,7 @@
 - [Cat Pictures 2 writeup](https://github.com/mauzware/THM-CTFs/blob/main/Cat%20Pictures%202.md)
 - [Opacity writeup](https://github.com/mauzware/THM-CTFs/blob/main/Opacity.md)
 - [Flip writeup](https://github.com/mauzware/THM-CTFs/blob/main/Flip.md)
-- add
+- [Valley writeup](https://github.com/mauzware/THM-CTFs/blob/main/Valley.md)
 - add
 - add
 - add
