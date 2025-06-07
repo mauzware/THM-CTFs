@@ -104,7 +104,7 @@
 - [Flip writeup](https://github.com/mauzware/THM-CTFs/blob/main/Flip.md)
 - [Valley writeup](https://github.com/mauzware/THM-CTFs/blob/main/Valley.md)
 - [Publisher writeup](https://github.com/mauzware/THM-CTFs/blob/main/Publisher.md)
-- add
+- [Whiterose writeup](https://github.com/mauzware/THM-CTFs/blob/main/Whiterose.md)
 - add
 
 ---
