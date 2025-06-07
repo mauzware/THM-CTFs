@@ -103,7 +103,7 @@
 - [Opacity writeup](https://github.com/mauzware/THM-CTFs/blob/main/Opacity.md)
 - [Flip writeup](https://github.com/mauzware/THM-CTFs/blob/main/Flip.md)
 - [Valley writeup](https://github.com/mauzware/THM-CTFs/blob/main/Valley.md)
-- add
+- [Publisher writeup](https://github.com/mauzware/THM-CTFs/blob/main/Publisher.md)
 - add
 - add
 
