@@ -108,7 +108,7 @@
 - [Red writeup](https://github.com/mauzware/THM-CTFs/blob/main/Red.md)
 - [Hijack writeup](https://github.com/mauzware/THM-CTFs/blob/main/Hijack.md)
 - [Creative writeup](https://github.com/mauzware/THM-CTFs/blob/main/Creative.md)
-- add
+- [CyberLens writeup](https://github.com/mauzware/THM-CTFs/blob/main/CyberLens.md)
 - add
 - add
 - add
