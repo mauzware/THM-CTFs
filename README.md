@@ -105,6 +105,13 @@
 - [Valley writeup](https://github.com/mauzware/THM-CTFs/blob/main/Valley.md)
 - [Publisher writeup](https://github.com/mauzware/THM-CTFs/blob/main/Publisher.md)
 - [Whiterose writeup](https://github.com/mauzware/THM-CTFs/blob/main/Whiterose.md)
+- [Red writeup](https://github.com/mauzware/THM-CTFs/blob/main/Red.md)
+- add
+- add
+- add
+- add
+- add
+- add
 - add
 
 ---
