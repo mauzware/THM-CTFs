@@ -106,7 +106,7 @@
 - [Publisher writeup](https://github.com/mauzware/THM-CTFs/blob/main/Publisher.md)
 - [Whiterose writeup](https://github.com/mauzware/THM-CTFs/blob/main/Whiterose.md)
 - [Red writeup](https://github.com/mauzware/THM-CTFs/blob/main/Red.md)
-- add
+- [Hijack writeup](https://github.com/mauzware/THM-CTFs/blob/main/Hijack.md)
 - add
 - add
 - add
