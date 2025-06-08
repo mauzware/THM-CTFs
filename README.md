@@ -107,7 +107,7 @@
 - [Whiterose writeup](https://github.com/mauzware/THM-CTFs/blob/main/Whiterose.md)
 - [Red writeup](https://github.com/mauzware/THM-CTFs/blob/main/Red.md)
 - [Hijack writeup](https://github.com/mauzware/THM-CTFs/blob/main/Hijack.md)
-- add
+- [Creative writeup](https://github.com/mauzware/THM-CTFs/blob/main/Creative.md)
 - add
 - add
 - add
