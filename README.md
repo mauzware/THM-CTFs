@@ -111,8 +111,7 @@
 - [CyberLens writeup](https://github.com/mauzware/THM-CTFs/blob/main/CyberLens.md)
 - [Silver Platter writeup](https://github.com/mauzware/THM-CTFs/blob/main/Silver%20Platter.md)
 - [The Sticker Shop writeup](https://github.com/mauzware/THM-CTFs/blob/main/The%20Sticker%20Shop.md)
-- add
-- add
+- [Flatline writeup](https://github.com/mauzware/THM-CTFs/blob/main/Flatline.md)
 
 ---
 
