@@ -110,7 +110,7 @@
 - [Creative writeup](https://github.com/mauzware/THM-CTFs/blob/main/Creative.md)
 - [CyberLens writeup](https://github.com/mauzware/THM-CTFs/blob/main/CyberLens.md)
 - [Silver Platter writeup](https://github.com/mauzware/THM-CTFs/blob/main/Silver%20Platter.md)
-- add
+- [The Sticker Shop writeup](https://github.com/mauzware/THM-CTFs/blob/main/The%20Sticker%20Shop.md)
 - add
 - add
 
