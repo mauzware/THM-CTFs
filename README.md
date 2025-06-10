@@ -109,7 +109,7 @@
 - [Hijack writeup](https://github.com/mauzware/THM-CTFs/blob/main/Hijack.md)
 - [Creative writeup](https://github.com/mauzware/THM-CTFs/blob/main/Creative.md)
 - [CyberLens writeup](https://github.com/mauzware/THM-CTFs/blob/main/CyberLens.md)
-- add
+- [Silver Platter writeup](https://github.com/mauzware/THM-CTFs/blob/main/Silver%20Platter.md)
 - add
 - add
 - add
