@@ -131,7 +131,7 @@ More info: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## 👨‍💻 **Author**
 
-If you like the project, consider ⭐️ starring the repo and following for more tools.
+If you like the project, consider ⭐️ starring the repo and following for more tools and write-ups.
 
 [<img src="https://github.com/mauzware/mauzware/blob/main/LOGO%20NEW.png" width="140px" height="40px"/>](https://github.com/mauzware)
 
