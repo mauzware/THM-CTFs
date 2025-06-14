@@ -129,5 +129,13 @@ More info: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ---
 
+## 👨‍💻 **Author**
+
+If you like the project, consider ⭐️ starring the repo and following for more tools.
+
+[<img src="https://github.com/mauzware/mauzware/blob/main/LOGO%20NEW.png" width="140px" height="40px"/>](https://github.com/mauzware)
+
+---
+
 ⚠️ **Disclaimer: The content in this repository is for educational and informational purposes only; the author holds no responsibility for misuse. 
 Ensure proper authorization before use, act responsibly at your own risk, and comply with all legal and ethical guidelines.** ⚠️
