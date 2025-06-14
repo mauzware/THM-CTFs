@@ -129,11 +129,13 @@ More info: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ---
 
-## 👨‍💻 **Author**
+## 👋 Follow my journey
 
-If you like the project, consider ⭐️ starring the repo and following for more tools and write-ups.
+If you liked this walkthroughs, feel free to follow me on:
 
-[<img src="https://github.com/mauzware/mauzware/blob/main/LOGO%20NEW.png" width="140px" height="40px"/>](https://github.com/mauzware)
+<a href="https://medium.com/@mauzware"><img src="https://img.shields.io/badge/Medium-style?style=for-the-badge&logo=medium&color=black" alt="Medium"/></a>
+<a href="https://www.linkedin.com/in/filip-milenkovic-576a73228/"><img src="https://img.shields.io/badge/LinkedIn-style?style=for-the-badge&color=blue" alt="LinkedIn"/></a>
+<a href="https://github.com/mauzware"><img src="https://img.shields.io/badge/GitHub-style?style=for-the-badge&logo=github&color=black" alt="GitHub"/></a>
 
 ---
 
